@@ -1,18 +1,12 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Aurélie Nakamura"
+  uri         : "https://elienakamura.github.io"
+  email       : "aurelienakamura(at)gmail(dot)com"
+  bio         : "PhD student in Social, Psychiatric and Perinatal Epidemiology at INSERM/Sorbonne Université"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  googlescholar    : "https://scholar.google.com/citations?user=H7wTNVoAAAAJ&hl=fr"
+  researchgate : "https://www.researchgate.net/profile/Aurelie_Nakamura"
+  linkedin    : "https://www.linkedin.com/in/aur%C3%A9lie-nakamura-915a8027/"
+  lastfm      : "https://www.last.fm/fr/user/Miyuki1969"
