@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Aurélie Nakamura / Ph.D student in Social Epidemiology"
+locale                   : "en-FR"
+title                    : "Aurelie Nakamura / Ph.D student in Social Epidemiology"
 title_separator          : "-"
-name                     : &name "Aurélie Nakamura"
+name                     : &name "Aurelie Nakamura"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Dr. Test Account"
+  name             : "Aurelie Nakamura"
   avatar           : "profile.png"
-  bio              : "I am currently working at INSERM/Sorbonne Université as a Ph.D student"
+  bio              : "I am currently working at INSERM/Sorbonne Universite as a Ph.D student"
   location         : "Paris, France"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Nakamura+Aur%C3%A9lie"
