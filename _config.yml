@@ -1,3 +1,41 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@elienakamura
+Learn Git and GitHub without any code!
+
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+academicpages /
+academicpages.github.io
+
+75
+2.8k
+
+    8.4k
+
+Code
+Issues 80
+Pull requests 52
+Actions
+Projects 0
+Wiki
+Security 0
+
+    Insights
+
+academicpages.github.io/_config.yml
+@ning-y ning-y Add vendor as excluded dir 5a8a8db on 15 Apr 2019
+@staeiou
+@tlcaputi
+@a-paxton
+@ning-y
+@luismmontilla
+@jacobtfisher
+@aki-nishimura
+311 lines (285 sloc) 7.92 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -6,10 +44,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-FR"
-title                    : "Aurelie Nakamura / Ph.D student in Social Epidemiology"
+locale                   : "en-US"
+title                    : "Aurelie Nakamura / Ph.D Student"
 title_separator          : "-"
-name                     : &name "Aurelie Nakamura"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +118,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aurelie Nakamura"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "I am currently working at INSERM/Sorbonne Universite as a Ph.D student"
-  location         : "Paris, France"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Nakamura+Aur%C3%A9lie"
-  googlescholar    : "https://scholar.google.com/citations?user=H7wTNVoAAAAJ&hl=fr"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Aurelie_Nakamura"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +134,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "elienakamura"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "https://last.fm/user/Miyuki1969
-  linkedin         : "https://www.linkedin.com/in/aur%C3%A9lie-nakamura-915a8027/"
-  orcid            : "https://orcid.org/0000-0002-2843-3364."
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -309,3 +347,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
