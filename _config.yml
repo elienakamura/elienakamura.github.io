@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               :  
 facebook:
   username               : 
   app_id                 :
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Aurélie Nakamura"
-  avatar           : "profile.png"
+  avatar           : "profil2.jpg"
   bio              : "Ph.D Student in Social, Psychiatric and Perinatal Epidemiology"
   location         : "Paris, France"
-  employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  employer         : "EHESP"
+  googlescholar    : "https://scholar.google.com/citations?user=H7wTNVoAAAAJ&hl=fr"
   email            : "aurelie.nakamura(at)iplesp.upmc.fr"
   uri              : 
   bitbucket        :
@@ -95,15 +95,15 @@ author:
   google_plus      :
   keybase          :
   instagram        : 
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  lastfm           : "https://last.fm/user/Miyuki1969"
+  linkedin         : "https://www.linkedin.com/in/aur%C3%A9lie-nakamura-915a8027/"
+  orcid            : "https://orcid.org/0000-0002-2843-3364"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
